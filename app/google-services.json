@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876341207660",
+    "firebase_url": "https://waymap-1997b.firebaseio.com",
+    "project_id": "waymap-1997b",
+    "storage_bucket": "waymap-1997b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876341207660:android:0be4550c32b69e2793ee49",
+        "android_client_info": {
+          "package_name": "here.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876341207660-tnc515h10qf61l6tnl2700laqbb9eviu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "here.com",
+            "certificate_hash": "2fd77204102e0d47ce4b8f9e3fb44e32097cad79"
+          }
+        },
+        {
+          "client_id": "876341207660-ctk1jfm494m3ku96befo5l8a50og18rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnrwCrA0yubaRARiyAYxVjx5Xn8G7Cqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876341207660-ctk1jfm494m3ku96befo5l8a50og18rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
